@@ -11,5 +11,5 @@ CSS preprocessor:
 stylus - https://sabe.io/tutorials/setting-up-stylus-css-preprocessor#prerequisites
 
 Learning, Courses and excercise:
-roadmap.sh - https://roadmap.sh/ or https://github.com/kamranahmedse/developer-roadmap
+roadmap-sh - https://roadmap.sh/ or https://github.com/kamranahmedse/developer-roadmap
 neetcode - https://neetcode.io/courses
