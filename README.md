@@ -15,5 +15,19 @@ roadmap-sh - https://roadmap.sh/ or https://github.com/kamranahmedse/developer-r
 neetcode - https://neetcode.io/courses
 
 UX UI Website:
-[Realtime Color]([url](https://realtimecolors.com/))
-[Type Scale]([url](https://typescale.com)
+Realtime Color - https://realtimecolors.com/
+Type Scale - https://typescale.com
+Inspiration:
+DarkModeDesign - https://darkmodedesign.com
+LandingFolio - https://landingfolio.com
+AppShots - https://appshots.design
+LandBook - https://land-book.com
+page collective - https://pagecollective.com
+refero design -  https://refero.design
+lapa ninja - https://lapa.ninja
+mobbin - https://mobbin.com/browse/ios/apps
+behance
+dribble
+
+goodui - https://goodui.org
+awwwards - https://www.awwwards.com/
