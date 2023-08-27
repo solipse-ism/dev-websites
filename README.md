@@ -7,6 +7,9 @@ asking question the right way - https://dontasktoask.com/
 CSS framework:
 picocss - https://picocss.com/
 
+CSS compressor - https://csscompressor.com/
+
+
 CSS preprocessor:
 stylus - https://sabe.io/tutorials/setting-up-stylus-css-preprocessor#prerequisites
 https://devhints.io/stylus
