@@ -8,6 +8,7 @@ CSS framework:
 picocss - https://picocss.com/
 
 CSS compressor - https://csscompressor.com/
+CSS box-shadow-template - https://getcssscan.com/css-box-shadow-examples
 
 
 CSS preprocessor:
